@@ -1,0 +1,17 @@
+reSkip	html5shiv.js	/^  var reSkip = \/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$\/i;$/;"	v
+saveClones	html5shiv.js	/^  var saveClones = \/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$\/i;$/;"	v
+supportsHtml5Styles	html5shiv.js	/^  var supportsHtml5Styles;$/;"	v
+expando	html5shiv.js	/^  var expando = '_html5shiv';$/;"	v
+expanID	html5shiv.js	/^  var expanID = 0;$/;"	v
+expandoData	html5shiv.js	/^  var expandoData = {};$/;"	v
+supportsUnknownElements	html5shiv.js	/^  var supportsUnknownElements;$/;"	v
+addStyleSheet	html5shiv.js	/^  function addStyleSheet(ownerDocument, cssText) {$/;"	f
+getElements	html5shiv.js	/^  function getElements() {$/;"	f
+addElements	html5shiv.js	/^  function addElements(newElements, ownerDocument) {$/;"	f
+getExpandoData	html5shiv.js	/^  function getExpandoData(ownerDocument) {$/;"	f
+createElement	html5shiv.js	/^  function createElement(nodeName, ownerDocument, data){$/;"	f
+createDocumentFragment	html5shiv.js	/^  function createDocumentFragment(ownerDocument, data){$/;"	f
+ownerDocument.createElement	html5shiv.js	/^    }$/;"	f
+shivMethods	html5shiv.js	/^  function shivMethods(ownerDocument, data) {$/;"	f
+shivDocument	html5shiv.js	/^  function shivDocument(ownerDocument) {$/;"	f
+elements	html5shiv.js	/^  var html5 = {$/;"	p	class:html5
